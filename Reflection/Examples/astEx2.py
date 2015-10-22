@@ -56,7 +56,10 @@ Found string "str: apple"
 Found string "str: peter"
 Found string "str: %s likes %s"
 
-# The visitor class implements methods that are called for relevant AST nodes (for example visit_Str is called for Str nodes). The transformer is a bit more complex. It calls relevant methods for AST nodes and then replaces them with the returned value of the methods.
+# The visitor class implements methods that are called for relevant AST nodes
+# (for example visit_Str is called for Str nodes).
+# The transformer is a bit more complex.
+# It calls relevant methods for AST nodes and then replaces them with the returned value of the methods.
 # To prove that the transformed code is perfectly valid, we can just compile and execute it:
 
 node = ast.fix_missing_locations(node)
