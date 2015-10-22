@@ -1,4 +1,5 @@
 # (Ref. http://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts/)
+# (Not exactly "runnable" code, more of a Reference, if you will.)
 # Manually building ASTs
 
 import ast
