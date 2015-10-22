@@ -25,7 +25,9 @@ isinstance([1, 2], list)
 # Note that isinstance provides a weaker condition than a comparison using #Type.
 
 # Duck typing
-# Duck typing provides an indirect means of reflection. It is a technique consisting in using an object as if it was of the requested type, while catching exceptions resulting from the object not supporting some of the features of the class or type.
+# Duck typing provides an indirect means of reflection.
+# It is a technique consisting in using an object as if it was of the requested type,
+# while catching exceptions resulting from the object not supporting some of the features of the class or type.
 
 # Callable
 # For an object, determines whether it can be called. A class can be made callable by providing a __call__() method.
