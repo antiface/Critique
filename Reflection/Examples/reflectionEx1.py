@@ -1,7 +1,8 @@
 # (Ref. https://en.wikibooks.org/wiki/Python_Programming/Reflection)
 # Python Programming/Reflection
 
-# A Python script can find out about the type, class, attributes and methods of an object. This is referred to as reflection or introspection. See also Metaclasses.
+# A Python script can find out about the type, class, attributes and methods of an object.
+# This is referred to as reflection or introspection. See also Metaclasses.
 
 # Reflection-enabling functions include type(), isinstance(), callable(), dir() and getattr().
 
