@@ -54,5 +54,4 @@
 * [Exploring Python Code Objects « late.am](http://late.am/post/2012/03/26/exploring-python-code-objects.html)
 * [course/internals.md at master · alonho/course](https://github.com/alonho/course/blob/master/doc/internals.md)
 * [Internal objects — Pyo 0.7.9 documentation](http://ajaxsoundstudio.com/pyodoc/api/classes/internals.html)
-* [How Programming Language Internals Work · negativeview/dndbtsbot Wiki](https://github.com/negativeview/dndbtsbot/wiki/How-Programming-Language-Internals-Work)
 * [python/cpython: Semi-official read-only mirror of the CPython Mercurial repository](https://github.com/python/cpython)
