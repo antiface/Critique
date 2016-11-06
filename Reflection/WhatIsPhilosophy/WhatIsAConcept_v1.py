@@ -3,6 +3,8 @@
 ### PYTHON CODE MINUS CONTENT (CITATION, FAIR USE) FROM "WHAT IS PHILOSOPHY?" by A.G. (c) 2016. All Rights Reserved.
 ### Thought Experiment: Can machine intelligence invent new philosophical concepts autonomously or through some process, maybe even a stochastic process?
 ### Title: WhatIsAConcept_v1.py
+### MOTIVATING QUESTION: WHAT IS THE FUNDAMENTAL DIFFERENCE BETWEEN PYTHON SCRIPTS "WhatIsAConcept_v1.py" and "WhatIsAConcept_v2.py"?
+### FIND ALL DIFFERENCES, IDENTIFY MOST FUNDAMENTAL, i.e. AS FAR INTO THE FOUNDATIONS OF EVERYTHING AS YOU CAN GO RELATIVE TO THE FOUNDATIONS OF EVERYTHING SAID BEFORE IN THIS PREFACE TO THE PRESENTATION OF THE CODE (THIS REPOSITORY, MOSTLY THE README.md FILE, AND THESE NOTES).
 
 import random
 
