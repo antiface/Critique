@@ -4,15 +4,38 @@
 - Assume that all we need is to achieve some level of formalism with Deleuze & Guattari's book What is philosophy?;
 - Assume that this book contains the key to creating machine intelligence capable of "inventing new concepts" (as described in the chapter What is a concept? in aforementioned book);
 - The rest of the thought experiment, and the experiments the experiments leads to shall follow shortly...
+- 
 
 ### PROBLEMS
-- What is Philosophy?
-- What is a Concept?
+- run_experiment What is Philosophy?;
+- run_experiment What is a Concept?;
 - [...]
 
 ### CONCEPTS
-- Invention of Concept(s).
-- Run Experiment.
+- solution: "Concept";
+- solution: "Invention of Concept(s)";
+- solution: "Type";
+- solution: "Type System";
+- solution: "Type Introspection";
+- solution "Reflection";
+- solution: "What is a List?"
+- solution: "Antitype";
+- solution: "What is a Problem?";
+- solution: "What is a Python?";
+- solution: "What is a Language?";
+- solution: "What is a Character?";
+- solution: "What is a Symbol?"
+- solution: "README.md";
+- solution: "Documentation";
+- solution: "File";
+- solution: "Repository";
+- solution: "Packaging";
+- solution: "run_experiment";
+- solution: "Formalization of Philosophy";
+- solution: "Spinoza's Ethics";
+- solution: "What is Mathematical Constructivism?";
+- solution: "What is a Construct?";
+- solution: "Eigenphilosophy v.1.0.0-alpha";
 - [...]
 
 A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
