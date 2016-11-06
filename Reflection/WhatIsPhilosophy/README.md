@@ -4,6 +4,15 @@
 - Assume that all we need is to achieve some level of formalism with Deleuze & Guattari's book What is philosophy?;
 - Assume that this book contains the key to creating machine intelligence capable of "inventing new concepts" (as described in the chapter What is a concept? in aforementioned book);
 - The rest of the thought experiment, and the experiments the experiments leads to shall follow shortly...
+
+### PROBLEMS
+- What is Philosophy?
+- What is a Concept?
+- [...]
+
+### CONCEPTS
+- Invention of Concept(s).
+- Run Experiment.
 - [...]
 
 A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
