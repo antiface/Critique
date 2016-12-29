@@ -3,4 +3,4 @@
 #    char title[50];
 #    int concept_id;
 #  }; concept;
-# PROBLEM: WHAT IS THE TYPE OF TYPE?
+# PROBLEM: WHAT IS THE TYPE OF TYPE "FIRST CONCEPT"?
