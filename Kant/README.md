@@ -1,5 +1,5 @@
 ### CRITIQUE / KANT
-- We will be focusing on Kant's 3rd critique, his Critique of Judgement;
+- We will be focusing on Kant's 2ndcritique, his Critique of Judgement;
 - Specifically, we want to look at Reflective Judgements, i.e. those Aesthetic and/or Teleological;
 - The goal is not to extrapolate on Kantian aesthetics, it is to use philosophy to teach programming, and/or vice versa;
 - That is to say, the underlying question guiding us is: If we want computers to become intelligent, why don't we start by teaching them critical philosophy?;
