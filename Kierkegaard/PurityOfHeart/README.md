@@ -10,3 +10,4 @@ A. If it be Possible for a Man to Will the Good in Truth, Then he Must be at One
 
 Therefore, if it be possible for a man to will one thing, then he must will the Good, for only the Good is one. Thus if it becomes a fact that he wills one thing, he must will the Good in truth.
 """
+* [Purity of Heart is To Will One Thing by Soren Kierkegaard](https://www.religion-online.org/book-chapter/chapter-4-barriers-to-willing-one-thing-the-reward-disease/)
