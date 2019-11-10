@@ -110,4 +110,10 @@ WhatIsAConcept = ['There are no simple concepts.',
 >>> print WhatIsAConcept[random.randint(0,87)]
 ['Second, what is distinctive about the concept is that it renders components inseparable within itself.']
 
+>>> random.choice(WhatIsAConcept)
+'A concept requires not only a problem through which it recasts or replaces earlier concepts but a junction of problems where it combines with other coexisting concepts.'
+>>> random.choice(WhatIsAConcept)
+'They are movable bridges.'
+>>> random.choice(WhatIsAConcept)
+'Concepts are not eternal, but does this mean they are temporal?'
 """
