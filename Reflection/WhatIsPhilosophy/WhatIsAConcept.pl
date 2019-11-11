@@ -1,5 +1,5 @@
 complex(concept).
-has(concept,components)
+has(concept,components).
 defined_by(concept,components).
 has(concept,combination).
 multiplicity(concept).
@@ -32,8 +32,8 @@ center_of_vibration(concept).
 junctions(bridges).
 detours(bridges).
 movable_bridge(concept).
-must_be(planes,constructed.
-muste_be(problems,posed).
+must_be(planes,constructed).
+must_be(problems,posed).
 must_be(concepts,created).
 relate_to(new_concepts,problems).
 relate_to(new_concepts,our_history).
