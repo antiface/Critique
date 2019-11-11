@@ -1,5 +1,6 @@
 # Critique
 Critique - a foray into truly Philosophical Software.
+An exploration of the Software Space of the Formalization of Philosophy.
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
