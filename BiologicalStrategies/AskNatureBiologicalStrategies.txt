@@ -1,0 +1,191 @@
+# ASKNATURE: FUNCTIONS
+# Ref. https://asknature.org/
+# © 2018 - The Biomimicry Institute
+
+Break down
+	Chemically break down
+		Catalyze chemical breakdown
+		Chemically break down inorganic compounds
+		Chemically break down polymers
+		Cleave heavy metals from organic compounds
+	Physically break down
+		Break down living materials
+		Break down non-living materials
+Get, store, or distribute resources
+	Capture, absorb, or filter resources
+		Capture bulk solids
+		Capture, absorb, or filter chemical entities
+		Capture, absorb, or filter energy
+		Capture, absorb, or filter gases
+		Capture, absorb or filter liquids
+		Capture, absorb, or filter organisms
+		Capture, absorb, or filter solids
+	Distribute resources
+		Distribute energy
+		Distribute gases
+		Distribute liquids
+		Distribute solids
+		Expel resources
+			Expel gases
+			Expel liquids
+			Expel solids
+		Store resources
+			Store chemical entities
+			Store energy
+			Store gases
+			Store liquids
+			Store solids
+	Expel resources
+	Store resources
+Maintain community
+	Cooperate to maintain community
+		Cooperate within an ecosystem
+		Cooperate within the same species
+		Cooperate/compete between (eco)systems
+		Cooperate/compete between different species
+	Coordinate
+		Coordinate activities
+		Coordinate by self-organization
+		Coordinate systems
+	Provide ecosystem services
+		Biological control of populations, peses, diseases
+		Control erosion and sediment
+		Cycle nutrients
+		Detoxification / purification of air/water/waste
+		Disperse seeds
+		Generate soil/renew fertility
+		Maintain biodiversity
+		Manage disturbance in a community
+		Pollinate
+		Regulate atmospheric chemical/gas composition
+		Regulate climate
+		Regulate hydrological flows
+		Regulate water storage
+Make
+	Chemically assemble
+		Attach a functional group
+		Catalyze chemical assembly
+		Chemically assemble metal-based compounds
+		Chemically assemble mineral crystals
+		Chemically assemble molecular devices
+		Chemically assemble on demand
+		Chemically assemble organic compounds
+		Chemically assemble polymers
+	Physically assemble
+		Physically assembly structure
+Modify
+	Adapt/optimize
+		Adapt behaviors
+		Adapt genotype
+		Adapt phenotype
+		Coevolve
+		Optimize shape/materials
+	Modify chemical/electrical state
+		Chemically generate flow of electorns (redox)
+		Modify chemical potential
+		Modify concentration (of ions, solutes, etc.)
+		Modify conductivity
+		Modify electric charge
+		Modify electron transport
+		Modify energy state
+		Modify free radical reactivity
+		Modify oxidation state
+		Modify pH
+		Modify reactivity with water
+		Modify solubility (dissolving, emulsifying, precipitating, crystallizing)
+		Modify surface tension
+	Modify physical state
+		Modify buoyancy
+		Modify density
+		Modify light/color
+		Modify material characteristics
+		Modify phase
+		Modify position
+		Modify pressure
+		Modify size/shape/mass/volume
+		Modify speed
+	Transform/convert energy
+		Transform chemical energy
+		Transform electrical energy
+		Transform magnetic energy
+		Transform mechanical energy
+		Transform radiant energy (light)
+		Transform thermal energy
+Move or stay put
+	Attach
+		Attach permanently
+		Attach temporarily
+	Move
+		Move in/on liquids
+		Move in/on solids
+		Move in/through gases
+Process information
+	Compute
+	Encode/Decode
+	Learn
+	Navigate
+		Navigation over land
+		Navigate through air
+		Navigate through liquid
+		Navigate through solids
+	Process signals
+		Differentiate signal from noise
+		Respond to signals
+		Transduce/convert signals
+	Send signals
+		Send chemical signals (odor, taste, etc.)
+		Send electrical/magnetic signals
+		Send light signals in the non-visible spectrum
+		Send sound signals
+		Send vibratory signals
+	Sense signals/environmental cues
+		Sense balance/orientation
+		Sense body awareness
+		Sense chemicals (odor, taste, etc.) from the environment
+		Sense disease in a living system
+		Sense electricity/magnetism from the environment
+		Sense light (non-visible spectrum) from the environment
+		Sense light (visible spectrum) from the environment
+		Sense motion
+		Sense shape and pattern in a living system
+		Sense sound and other vibrations from the environment
+		Sense temperature cues from the environment
+		Sense time and day length
+		Sense touch and mechanical forces in a living system
+		Sense atmospheric conditions
+Protect from physical harm
+	Manage structural forces
+		Manage chemical wear
+		Manage compression
+		Manage impact
+		Manage mechanical wear
+		Manage shear
+		Manage tension
+		Manage turbulence
+	Prevent structural failure
+		Prevent buckling
+		Prevent deformation
+		Prevent fatigue
+		Prevent failure/rupture
+	Protect from living threats
+		Protect from animals
+		Protect from fungi
+		Protect from microbes
+		Protect from plants
+	Protect from non-living threats
+		Protect from chemicals
+		Protect from dirt/solids
+		Protect from excess liquids
+		Protect from fire
+		Protect from gases
+		Protect from ice
+		Protect from light
+		Protect from loss of gases
+		Protect from loss of liquids
+		Protect from nuclear radiation
+		Protect from temperature
+		Protect from wind
+	Regulate physiological processes
+		Maintain homeostasis
+		Regulate cellular processes
+		Regulate reproduction or growth
