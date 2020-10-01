@@ -7,4 +7,5 @@
 * [ekpyron/TAO: Embeding of The Theory of Abstract Objects in Isabelle HOL](https://github.com/ekpyron/TAO)
 * [ekpyron/TAO at NewAOT](https://github.com/ekpyron/TAO/tree/NewAOT)
 * [jessealama/computational-metaphysics: Investigations in computational metaphysics](https://github.com/jessealama/computational-metaphysics)
+* [jessealama/object-theory: Working with object theory, computationally](https://github.com/jessealama/object-theory)
 * [MrChico/CompMeta: Exercises in computational metaphysics](https://github.com/MrChico/CompMeta)
