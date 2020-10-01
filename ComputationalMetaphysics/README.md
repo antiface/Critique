@@ -4,6 +4,11 @@
 
 ## RESOURCES:
 * [FormalTheology/GoedelGod: Formalizations of Gödel's Ontological Proof of God's Existence](https://github.com/FormalTheology/GoedelGod)
+* [cbenzmueller (Christoph Benzmueller) / Repositories](https://github.com/cbenzmueller?tab=repositories)
+* [cbenzmueller/PrincipiaMetaphysica](https://github.com/cbenzmueller/PrincipiaMetaphysica)
+* [cbenzmueller/TypesTableauxAndGoedelsGod: Formalization of Melvin Fitting's Textbook from 2002 in Isabelle/HOL; A semantical embedding in HOL is employed.](https://github.com/cbenzmueller/TypesTableauxAndGoedelsGod)
+* [cbenzmueller/Encyclopedia: An Open Encyclopedia of Proof Systems](https://github.com/cbenzmueller/Encyclopedia)
+* [cbenzmueller/LogiKEy: LogiKEy Workbench: Flexible, Pluralistic Foundations for Legal and Ethical Reasoning, Metaphysics and Maths](https://github.com/cbenzmueller/LogiKEy)
 * [ekpyron/TAO: Embeding of The Theory of Abstract Objects in Isabelle HOL](https://github.com/ekpyron/TAO)
 * [ekpyron/TAO at NewAOT](https://github.com/ekpyron/TAO/tree/NewAOT)
 * [jessealama/computational-metaphysics: Investigations in computational metaphysics](https://github.com/jessealama/computational-metaphysics)
