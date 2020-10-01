@@ -4,7 +4,6 @@
 
 ## RESOURCES:
 * [FormalTheology/GoedelGod: Formalizations of Gödel's Ontological Proof of God's Existence](https://github.com/FormalTheology/GoedelGod)
-* [cbenzmueller (Christoph Benzmueller) / Repositories](https://github.com/cbenzmueller?tab=repositories)
 * [cbenzmueller/PrincipiaMetaphysica](https://github.com/cbenzmueller/PrincipiaMetaphysica)
 * [cbenzmueller/TypesTableauxAndGoedelsGod: Formalization of Melvin Fitting's Textbook from 2002 in Isabelle/HOL; A semantical embedding in HOL is employed.](https://github.com/cbenzmueller/TypesTableauxAndGoedelsGod)
 * [cbenzmueller/Encyclopedia: An Open Encyclopedia of Proof Systems](https://github.com/cbenzmueller/Encyclopedia)
