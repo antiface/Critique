@@ -1,4 +1,6 @@
 # Critique
+v.1.0.1. Stable Release [![DOI](https://zenodo.org/badge/43617359.svg)](https://zenodo.org/doi/10.5281/zenodo.10361726)
+
 Critique - a foray into truly Philosophical Software.
 
 An exploration of the Software Space of the Formalization of Philosophy.
